@@ -14,7 +14,7 @@ If you'd like to see some examples of my photography, you can check out the foll
 - [Storytelling Events](https://dwayneandaimee.pass.us/storytelling/)
 - [Aimee's Portfolio](https://dwayneandaimee.pass.us/portfolio/)
 
-The images here in this GitHub listed under creative commons 0 license will not resemble the original subjects but will maintain a realistic appearance, focusing particularly on hands where they are in poses that might be helpful for your image reference prompts.
+The images available in this GitHub repository are licensed under Creative Commons Zero and are designed to provide realistic hand references for your image prompts. While they are based on original subjects, they have been altered to ensure they do not resemble any individuals, with a particular focus on the natural positioning of hands.
 
 ## How Will Success Be Defined?
 
