@@ -6,7 +6,15 @@ This repository offers free and Creative Commons Zero licensed images I generate
 
 Generating photorealistic images of hands is a challenge for AI, including MidJourney's latest iterations. Professional photographs often used for training AI are posed, which can result in unnatural hand positions. Posing hands is a common workaround for photographers, but it doesn't reflect how hands are naturally seen in daily life.
 
-I have a large collection of my own candid and theatrical photographs that provide more natural hand references. However, due to AI and copyright complexities (namely concerning the models in my photographs and the unknown with what the end images would be used for), I cannot share the original images on an open license. Instead, this GitHub repository will serve as a growing gallery of AI-generated images based on my original collections. These images will not resemble the original subjects but will maintain a realistic appearance, focusing particularly on hands.
+I have a large collection of my own candid and theatrical photographs that provide more natural hand references. However, due to AI and copyright complexities (namely concerning the models in my photographs and the unknown with what the end images would be used for), I cannot share the original images on an open license. Instead, this GitHub repository will serve as a growing gallery of AI-generated images based on my original collections. 
+
+If you'd like to see some examples of my photography, you can check out the following links:
+
+- [Advanced Storytelling](https://dwayneandaimee.pass.us/advanced-storytelling/)
+- [Storytelling Events](https://dwayneandaimee.pass.us/storytelling/)
+- [Aimee's Portfolio](https://dwayneandaimee.pass.us/portfolio/)
+
+The images here in this GitHub listed under creative commons 0 license will not resemble the original subjects but will maintain a realistic appearance, focusing particularly on hands where they are in poses that might be helpful for your image reference prompts.
 
 ## How Will Success Be Defined?
 
