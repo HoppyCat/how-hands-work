@@ -6,7 +6,7 @@ This repository offers free and Creative Commons Zero licensed images I generate
 
 Generating photorealistic images of hands is a challenge for AI, including MidJourney's latest iterations. Professional photographs often used for training AI are posed, which can result in unnatural hand positions. Posing hands is a common workaround for photographers, but it doesn't reflect how hands are naturally seen in daily life.
 
-I possess a vast collection of candid and theatrical photographs that provide more natural hand references. However, due to AI and copyright complexities, I cannot share the original images. Instead, this GitHub repository will serve as a growing gallery of AI-generated images based on my collection. These images will not resemble the original subjects but will maintain a realistic appearance, focusing particularly on hands.
+I have a large collection of my own candid and theatrical photographs that provide more natural hand references. However, due to AI and copyright complexities (namely concerning the models in my photographs and the unknown with what the end images would be used for), I cannot share the original images on an open license. Instead, this GitHub repository will serve as a growing gallery of AI-generated images based on my original collections. These images will not resemble the original subjects but will maintain a realistic appearance, focusing particularly on hands.
 
 ## How Will Success Be Defined?
 
@@ -19,7 +19,7 @@ Some images may appear blurry as I experiment with soft focus to test photoreali
 
 ## Thank You
 
-Your interest in this project is greatly appreciated! If you find this repository useful or have suggestions for improvement, please consider giving it a star. Your support and feedback help drive the progress of this project.
+Your interest in this project is greatly appreciated! If you find this repository useful or have suggestions for improvement, please consider giving it a star. Your support and feedback help drive the progress of this project. Also, please always feel free to use "style by Aimee Margaret" prompt in MidJourney as I try each version to add more photos using this prompt and I enjoy watching its evolution over time! 
 
 ## Image Gallery
 
